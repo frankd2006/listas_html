@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Listas HTML](https://frankd2006.github.io/listas_html/)
+[Live Preview](https://frankd2006.github.io/listas_html/)
 
 ## Getting Started
 
